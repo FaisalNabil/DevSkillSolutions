@@ -16,7 +16,7 @@ class Ideone
 		for(int i=0;i<testCase;i++){
 			double r=in.nextDouble();
 			double a=in.nextDouble();
-			if( (int)(r*2) == (int)(Math.sqrt(2)*a) ) 
+			if( (int)(r*2) == (int)(Math.sqrt(2)*a) )
 				System.out.println("Yes");
 			else
 				System.out.println("No");
